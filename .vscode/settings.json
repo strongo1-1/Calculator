@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\owen_\\OneDrive\\Desktop\\Computer Science\\JavaFX\\javafx-sdk-21.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\owen_\\OneDrive\\Desktop\\Computer Science\\JavaFX\\javafx-sdk-21.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\owen_\\OneDrive\\Desktop\\Computer Science\\JavaFX\\javafx-sdk-21.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\owen_\\OneDrive\\Desktop\\Computer Science\\JavaFX\\javafx-sdk-21.0.2\\lib\\javafx.graphics.jar"
+    ]
+}

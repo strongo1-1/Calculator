@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "application.Calculator",
+      "projectName": "Calculator_c06d3a8e",
+      "vmArgs": [
+        "--module-path",
+        "C:/Users/owen_/OneDrive/Desktop/Computer Science/JavaFX/javafx-sdk-21.0.2/lib",
+        "--add-modules",
+        "javafx.controls,javafx.graphics,javafx.fxml"
+      ],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "JavaFX Calculator",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "application.Calculator",
+      "projectName": "Calculator",
+      "vmArgs": [
+        "--module-path",
+        "C:/Users/owen_/OneDrive/Desktop/Computer Science/JavaFX/javafx-sdk-21.0.2/lib",
+        "--add-modules",
+        "javafx.controls,javafx.graphics,javafx.fxml"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}
